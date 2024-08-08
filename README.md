@@ -2,18 +2,20 @@
 
 
 # PyCitySchools_Analysis_SS notebook 
-The notebook starts with a report that summarizes the data and offers conclusions based on the trends revealed by the data. 
+The notebook starts with a report that summarizes the data and offers conclusions based on the trends revealed by the data.
 
-The report is followed by a series of calculations done to summarize the district-wide standardized test results. These calculations have been aggregated to show the trends in the school performance into the following summaries: 
-District Summary 
-School Summary 
-Highest-Performing Schools (by % Overall Passing) 
-Lowest-Performing Schools (by % Overall Passing) 
-Math Scores by Grade 
-Reading Scores by Grade 
-Scores by School Spending 
-Scores by School Size 
-Scores by School Type 
+
+
+The report is followed by a series of calculations done to summarize the district-wide standardized test results. These calculations have been aggregated to show the trends in the school performance into the following summaries:    
+District Summary   
+School Summary   
+Highest-Performing Schools (by % Overall Passing)   
+Lowest-Performing Schools (by % Overall Passing)     
+Math Scores by Grade    
+Reading Scores by Grade    
+Scores by School Spending    
+Scores by School Size   
+Scores by School Type   
 
 
 
